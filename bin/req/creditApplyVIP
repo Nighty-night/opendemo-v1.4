@@ -1,0 +1,26 @@
+{
+	"appID":"4256cbfb_33a1_492b_bb05_a4f46582ef86",
+	"reqHead":{
+		"channelID":"VIP",
+		"serviceID":"creditApplyVIP",
+		"seqNo":"open25882",
+		"transDate":"20180112",
+		"transTime":"095530123",
+		"encryptFlag":"1"
+	},
+	"reqData":{
+		"CrdtAppSeqNo":"123",
+		"ClientName":"tom",
+		"IdCode":"123",
+		"IdType":"123",
+		"MobileNo":"123",
+		"SysReqTmStmp":"123",
+		"CrdtAppData":"123"
+	}
+}
+
+
+
+
+
+

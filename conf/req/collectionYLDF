@@ -1,0 +1,42 @@
+{
+    "appID": "0f89cfb8_8bb9_4017_b54d_5e7c32f28a42",
+    "reqHead": {
+        "channelID": "WKZF",
+        "serviceID": "collectionYLDF",
+        "seqNo": "njcbSeqNo20181001120000000",
+        "transDate": "20181001",
+        "transTime": "120000",
+        "encryptFlag": "1"
+    },
+    "reqData": {
+        "MchannelId": "999920180919T000066651",
+        "bankId": "",
+        "capitalSource": "",
+        "channelId": "SNJR",
+        "channelType": "",
+        "corporationCode": "",
+        "currency": "156",
+        "eventCode": "",
+        "instId": "",
+        "isBank": "",
+        "licenseRegNo": "",
+        "merDate": "2018-10-17 14:57:55",
+        "merSeqNo": "NJCBx1mt6ma424pf1pa7",
+        "notifyUrl": "",
+        "payAcctName": "",
+        "payAcctNo": "",
+        "payAcctType": "",
+        "payType": "",
+        "postscript": "",
+        "rcvAcctName": "全渠道",
+        "rcvAcctNo": "6216261000000000018",
+        "rcvAcctType": "1",
+        "reqReserved": "",
+        "reserved": "",
+        "reserved1": "",
+        "transAmt": "10",
+        "transId": "",
+        "userCifNo": "",
+        "versionId": "1.0"
+    }
+}
